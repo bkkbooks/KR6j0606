@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0606/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說莊嚴王陀羅尼呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1375.xml
+    old_id: T21n1375
+hash: sha256:1284ab882c6da8482e37e550541069af66d4c9f838112619eed8a194c3bf4683
